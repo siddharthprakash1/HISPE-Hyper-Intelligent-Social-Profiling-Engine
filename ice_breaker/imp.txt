@@ -1,0 +1,2 @@
+ C:\Users\DELL\.virtualenvs\ice_breaker-zoqY0dVU location of the python virtual env
+ 
