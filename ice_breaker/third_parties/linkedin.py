@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 # Load environment variables from a .env file
 load_dotenv()
 
-def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = True):
+def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
     """
     Scrape information from LinkedIn profiles using Proxycurl API.
     """
